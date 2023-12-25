@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* =========================================================
+各要素リセット
+========================================================= */
+html {
+	color: #000000;
+	font-size: 14px;
+	line-height: 1.5;
+	/* font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "Osaka", "ＭＳ Ｐゴシック", "MS P Gothic", Verdana, Arial, Helvetica, sans-serif; */
+}
+
+body, html {
+	height: 100%;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+	margin: 0;
+	padding: 0;
+}
+
+figure{
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+img {
+	border: 0;
+	vertical-align:bottom;
+}
+
+em {
+	font-style: normal;
+}
